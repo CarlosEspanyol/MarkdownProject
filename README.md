@@ -20,6 +20,12 @@ Alberto.
 
 ### Features
 
+| Feature   | Description              | Status      |
+| --------- | ------------------------ | ----------- |
+| Feature 1 | Description of Feature 1 | In Progress |
+| Feature 2 | Description of Feature 2 | Completed   |
+| Feature 3 | Description of Feature 3 | Not Started |
+
 ### Installation
 
 ### Usage
