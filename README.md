@@ -16,6 +16,8 @@ Alberto.
 
 ### Introduction
 
+![Project Logo](images/logo.png)
+
 ### Features
 
 ### Installation
