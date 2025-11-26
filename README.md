@@ -26,6 +26,8 @@ Alberto.
 | Feature 2 | Description of Feature 2 | Completed   |
 | Feature 3 | Description of Feature 3 | Not Started |
 
+I love vidiogames
+
 > "Code is like humor. When you have to explain it, it’s bad." - Cory House 
 
 
