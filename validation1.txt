@@ -1,0 +1,82 @@
+commit ef3a451a163d16b2b6299cda340237d3e4c5d7cf
+Author: Carlos Español <39524045v@iespoblenou.org>
+Date:   Wed Nov 26 09:14:02 2025 +0100
+
+    Merge add-license branch into main
+
+ LICENSE.md | 8 ++++++++
+ 1 file changed, 8 insertions(+)
+
+commit 8c3d97bd414720dc499483cd177d104f3aa36b89
+Author: Carlos Español <39524045v@iespoblenou.org>
+Date:   Wed Nov 26 08:58:29 2025 +0100
+
+    Enhance README with formatting
+
+ README.md       |  12 ++++++++++++
+ images/logo.png | Bin 0 -> 1637793 bytes
+ notes/notes.txt |   0
+ 3 files changed, 12 insertions(+)
+
+commit 173c95dbf2ab5f5fceb6b057a257fb6b667cfb99
+Author: Carlos Español <39524045v@iespoblenou.org>
+Date:   Wed Nov 19 09:44:43 2025 +0100
+
+    Add feature list table  to README
+
+ README.md | 6 ++++++
+ 1 file changed, 6 insertions(+)
+
+commit 36a17d26389fb5eaed03da416cfedddc98a8b2e6
+Author: Carlos Español <39524045v@iespoblenou.org>
+Date:   Wed Nov 19 09:38:44 2025 +0100
+
+    Add project logo to README
+
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit a42f0e8ee75aed39ac1cbdd9a136a7f619cd1ef9
+Author: Carlos Español <39524045v@iespoblenou.org>
+Date:   Wed Nov 19 09:25:34 2025 +0100
+
+    Add sections to README
+
+ README.md | 12 +++++++++++-
+ 1 file changed, 11 insertions(+), 1 deletion(-)
+
+commit b9a45aea7f404e93aa937d5937417284f9c794db
+Author: Carlos Español <39524045v@iespoblenou.org>
+Date:   Wed Nov 19 09:22:58 2025 +0100
+
+    Add hyperlinks to README
+
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 80d05528c8f55d22086b872232d3bdf64482b23d
+Author: Carlos Español <39524045v@iespoblenou.org>
+Date:   Wed Nov 19 09:17:23 2025 +0100
+
+    Add Table of Contents to README
+
+ README.md | 8 ++++++++
+ 1 file changed, 8 insertions(+)
+
+commit c58b5665fcf7f6ace309b674029483eeeddcb6fb
+Author: Carlos Español <39524045v@iespoblenou.org>
+Date:   Wed Nov 19 08:56:06 2025 +0100
+
+    Add README with project introduccion
+
+ README.md | 6 ++++++
+ 1 file changed, 6 insertions(+)
+
+commit 4569cf91c1c4a3c37d9186a0bde4a27c1713e30b
+Author: Carlos Español <39524045v@iespoblenou.org>
+Date:   Wed Nov 19 08:50:18 2025 +0100
+
+    Initial commit with .gitignore
+
+ .gitignore | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
